@@ -1,0 +1,158 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.top-margin {
+    margin-top: 120px;
+}
+.body {
+    font-family: "titillium-web", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.footer-cy{ 
+    text-align: center;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    font-style: normal;
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 64px;
+    font-weight: 900;
+    font-variation-settings: "wdth" 100;
+    font-style: normal;
+}
+h3{
+    font-family: "Montserrat", sans-serif;
+    font-size: 64px;
+    font-weight: 800;
+    font-style: normal;
+}
+h4{
+    font-family: "Montserrat", sans-serif;
+    font-size: 56px;
+    font-weight: 800;
+    font-variation-settings: "wdth" 100;
+    font-style: normal;
+}
+h5{
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    font-style: normal;
+}
+h6{
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+}.montserrat-page h1,
+.montserrat-page h2,
+.montserrat-page h3,
+.montserrat-page h4,
+.montserrat-page h5,
+.montserrat-page h6 {
+    font-family: "Montserrat", sans-serif;
+}
+.bricolage-page h1,
+.bricolage-page h2,
+.bricolage-page h3,
+.bricolage-page h4,
+.bricolage-page h5,
+.bricolage-page h6 {
+    font-family: "Bricolage Grotesque", sans-serif;
+}
+.bricolage-page h2,
+.bricolage-page h4 {
+    font-variation-settings: "wdth" 100;
+}
+
+
+h1 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    font-variation-settings:
+    "wdth" 100;
+}
+
+h2 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 64px;
+    font-weight: 900;
+    font-variation-settings:
+    "wdth" 100;
+}
+h3 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    font-variation-settings:
+    "wdth" 100;
+}
+h4 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    font-variation-settings:
+    "wdth" 100;
+}
+h5 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 28px;
+    font-weight: 400;
+    font-variation-settings:
+    "wdth" 100;
+}
+h6 {
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-variation-settings:
+    "wdth" 100;
+}
+h1{
+    font-family: "Newsreader", serif;
+    font-size: 48px;
+    font-weight: 800;
+    font-variation-settings:
+    "wdth" 100, "opsz" 48;
+}
+h2{
+    font-family: "Newsreader", serif;
+    font-size: 64px;
+    font-weight: 900;
+    font-variation-settings:
+    "wdth" 100, "opsz" 64;
+}
+h3{
+    font-family: "Newsreader", serif;
+    font-size: 56px;
+    font-weight: 800;
+    font-variation-settings:
+    "wdth" 100, "opsz" 56;
+}
+h4{
+    font-family: "Newsreader", serif;
+    font-size: 40px;
+    font-weight: 600;
+    font-variation-settings:
+    "wdth" 100, "opsz" 40;
+}
+h5{
+    font-family: "Newsreader", serif;
+    font-size: 24px;
+    font-weight: 400;
+    font-variation-settings:
+    "wdth" 100, "opsz" 24;
+}
+h6{
+    font-family: "Newsreader", serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-variation-settings:
+    "wdth" 100, "opsz" 16;
+}
